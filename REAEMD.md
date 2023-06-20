@@ -13,6 +13,8 @@ cargo contract new flipper
 ## 测试您的合约
 ```
 cargo test
+
+cargo test --features  e2e-tests
 ```
 ## 编译您的合约
 ```
