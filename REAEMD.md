@@ -2,6 +2,10 @@
 ```
 cargo install contract --git https://github.com/paritytech/substrate-contracts-node.git --force
 ```
+## 安装合约编译器
+```
+cargo install cargo-contract
+```
 ## 创建ink！项目
 ```
 cargo contract new flipper
