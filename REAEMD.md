@@ -1,6 +1,9 @@
 ## 构建节点
 ```
-cargo install contract --git https://github.com/paritytech/substrate-contracts-node.git --force
+cargo install contracts-node --git https://github.com/paritytech/substrate-contracts-node.git --force
+
+
+substrate-contracts-node --dev
 ```
 ## 安装合约编译器
 ```
